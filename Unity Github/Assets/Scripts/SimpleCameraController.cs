@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 #endif
 
 using UnityEngine;
-#This is a test comment to see if commit changes
+
 namespace UnityTemplateProjects
 {
     public class SimpleCameraController : MonoBehaviour
